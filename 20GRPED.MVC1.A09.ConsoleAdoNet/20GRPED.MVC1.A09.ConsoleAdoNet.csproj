@@ -6,4 +6,8 @@
     <RootNamespace>_20GRPED.MVC1.A09.ConsoleAdoNet</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
 </Project>
